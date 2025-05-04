@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class ServingwebcontentApplication {
 
-    public static void main(String[] args) {
-        SpringApplication.run(ServingwebcontentApplication.class, args);
-    }
+	public static void main(String[] args) {
+		SpringApplication.run(ServingwebcontentApplication.class, args);
+	}
 
 }
